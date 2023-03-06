@@ -25,7 +25,7 @@ You can do this, but there are some problems, which is why I did not share them.
 
 ### Country boundaries
 
-There are a lot of very close Greek islands that are somehow included in the files. You need to clean them by overlapping the boundaries with some other maps. I could solve this by using an older shapefile, but this also causes the coastline to revert to its older shape. Alternatively, you could also use the points from the "yerlesim_nokta" files, but it causes some data loss. It requires some manual work or slightly more sophisticated operations.
+There is a lot of very close Greek islands that are somehow included in the files. You need to clean them by overlapping the boundaries with some other maps. I could solve this by using an older shapefile, but this also causes the coastline to revert to its older shape. Alternatively, you could also use the points from the "yerlesim_nokta" files, but it causes some data loss. It requires some manual work or slightly more sophisticated operations.
 
 ### District boundaries
 
